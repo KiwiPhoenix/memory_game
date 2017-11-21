@@ -1,0 +1,26 @@
+/*
+=============================
+Container
+=============================
+*/
+
+.container {
+  width: 1080px;
+  margin: 0 auto;
+}
+/*
+=============================
+Cards
+=============================
+*/
+#cards li {
+  float: left;
+  margin: 10px;
+  height: 200px;
+  width: 150px;
+  background: rgba(0, 255, 234,.5);
+}
+#cards p {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+ }
